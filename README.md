@@ -14,8 +14,14 @@ $ git init
 $ git status
 ```
 
-- Para adicionar novas mudancas"
+- Para adicionar novas mudancas:
 
 ```bash
 $ git add <NOMEDOARQUIVO>
+```
+
+- Para gravar as mudancas:
+
+```bash
+$ git commit -m "MESSAGE"
 ```
