@@ -14,3 +14,8 @@ $ git init
 $ git status
 ```
 
+- Para adicionar novas mudancas"
+
+```bash
+$ git add <NOMEDOARQUIVO>
+```
