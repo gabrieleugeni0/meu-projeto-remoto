@@ -1,6 +1,5 @@
 # Introducao ao GIT
 
-## Primeiros passos
 
 - Como inicializar o projeto (repositorio local):
 
@@ -24,4 +23,10 @@ $ git add <NOMEDOARQUIVO>
 
 ```bash
 $ git commit -m "MESSAGE"
+```
+
+- Como visualizar a diferenca entre as versoes:
+
+```bash
+$ git diff
 ```
