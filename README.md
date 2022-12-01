@@ -2,25 +2,25 @@
 
 ## Primeiros passos
 
-- Inicializar o projeto (repositorio local):
+- Como inicializar o projeto (repositorio local):
 
 ```bash
 $ git init
 ```
 
-- Descobrir o estado (status) do repositorio:
+- Como descobrir o status do repositorio:
 
 ```bash
 $ git status
 ```
 
-- Para adicionar novas mudancas:
+- Como adicionar novas mudancas:
 
 ```bash
 $ git add <NOMEDOARQUIVO>
 ```
 
-- Para gravar as mudancas:
+- Como gravar as mudancas:
 
 ```bash
 $ git commit -m "MESSAGE"
